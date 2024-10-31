@@ -1,0 +1,13 @@
+.new   {
+    background-color: blue;
+    border-radius: 15px;
+    width: 1500px;
+}
+
+.container input {
+    border-radius: 50%;
+}
+
+.container form .unique-news-email input {
+  border-radius: 50%;
+}
